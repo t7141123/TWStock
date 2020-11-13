@@ -1,3 +1,4 @@
+#This tool is to catch Taiwan stock information.
 import requests
 import pandas as pd
 
